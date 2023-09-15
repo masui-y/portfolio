@@ -205,11 +205,11 @@ body {
   font-size: 48px;
   text-align: center;
 }
-@media screen and (min-width: 768px) {
+/* @media screen and (min-width: 768px) {
   .kv_ttl {
     padding-top: 350px;
   }
-}
+} */
 
 .kv_ttl-sub {
   padding-top: 4px;
